@@ -1,0 +1,242 @@
+[
+  {
+    "rank": 1,
+    "brand": "肯德基",
+    "meiyu": 949,
+    "redu": 682,
+    "koubei": 842,
+    "category": "快餐"
+  },
+  {
+    "rank": 2,
+    "brand": "海底捞",
+    "meiyu": 953,
+    "redu": 426,
+    "koubei": 742,
+    "category": "火锅/串串"
+  },
+  {
+    "rank": 3,
+    "brand": "麦当劳",
+    "meiyu": 942,
+    "redu": 413,
+    "koubei": 731,
+    "category": "快餐"
+  },
+  {
+    "rank": 4,
+    "brand": "华莱士",
+    "meiyu": 958,
+    "redu": 263,
+    "koubei": 680,
+    "category": "快餐"
+  },
+  {
+    "rank": 5,
+    "brand": "周黑鸭",
+    "meiyu": 972,
+    "redu": 206,
+    "koubei": 666,
+    "category": "小吃"
+  },
+  {
+    "rank": 6,
+    "brand": "鲜目录寿司",
+    "meiyu": 996,
+    "redu": 151,
+    "koubei": 658,
+    "category": "日韩料理"
+  },
+  {
+    "rank": 7,
+    "brand": "味之绝美蛙鱼头",
+    "meiyu": 996,
+    "redu": 151,
+    "koubei": 658,
+    "category": "火锅/串串"
+  },
+  {
+    "rank": 8,
+    "brand": "屋头串串香",
+    "meiyu": 995,
+    "redu": 151,
+    "koubei": 657,
+    "category": "火锅/串串"
+  },
+  {
+    "rank": 9,
+    "brand": "半糖主义",
+    "meiyu": 994,
+    "redu": 151,
+    "koubei": 657,
+    "category": "甜品"
+  },
+  {
+    "rank": 10,
+    "brand": "泰熙家",
+    "meiyu": 991,
+    "redu": 151,
+    "koubei": 655,
+    "category": "日韩料理"
+  },
+  {
+    "rank": 11,
+    "brand": "六婆串串香",
+    "meiyu": 990,
+    "redu": 151,
+    "koubei": 654,
+    "category": "火锅/串串"
+  },
+  {
+    "rank": 12,
+    "brand": "喜茶",
+    "meiyu": 898,
+    "redu": 289,
+    "koubei": 654,
+    "category": "饮品"
+  },
+  {
+    "rank": 13,
+    "brand": "双流老妈兔头",
+    "meiyu": 987,
+    "redu": 150,
+    "koubei": 652,
+    "category": "小吃"
+  },
+  {
+    "rank": 14,
+    "brand": "南洋大师傅",
+    "meiyu": 983,
+    "redu": 156,
+    "koubei": 652,
+    "category": "甜品"
+  },
+  {
+    "rank": 15,
+    "brand": "眉州东坡",
+    "meiyu": 983,
+    "redu": 154,
+    "koubei": 651,
+    "category": "中餐"
+  },
+  {
+    "rank": 16,
+    "brand": "茶百道",
+    "meiyu": 935,
+    "redu": 224,
+    "koubei": 650,
+    "category": "饮品"
+  },
+  {
+    "rank": 17,
+    "brand": "星期天火锅",
+    "meiyu": 983,
+    "redu": 151,
+    "koubei": 650,
+    "category": "火锅/串串"
+  },
+  {
+    "rank": 18,
+    "brand": "味多美",
+    "meiyu": 979,
+    "redu": 155,
+    "koubei": 649,
+    "category": "甜品"
+  },
+  {
+    "rank": 19,
+    "brand": "鱼你在一起",
+    "meiyu": 977,
+    "redu": 155,
+    "koubei": 648,
+    "category": "快餐"
+  },
+  {
+    "rank": 20,
+    "brand": "秋金小炒",
+    "meiyu": 980,
+    "redu": 150,
+    "koubei": 648,
+    "category": "中餐"
+  },
+  {
+    "rank": 21,
+    "brand": "常青麦香园",
+    "meiyu": 978,
+    "redu": 152,
+    "koubei": 648,
+    "category": "甜品"
+  },
+  {
+    "rank": 22,
+    "brand": "一鸣真鲜奶吧",
+    "meiyu": 976,
+    "redu": 153,
+    "koubei": 646,
+    "category": "饮品"
+  },
+  {
+    "rank": 23,
+    "brand": "泰芒了",
+    "meiyu": 977,
+    "redu": 150,
+    "koubei": 646,
+    "category": "甜品"
+  },
+  {
+    "rank": 24,
+    "brand": "好利来",
+    "meiyu": 961,
+    "redu": 173,
+    "koubei": 646,
+    "category": "甜品"
+  },
+  {
+    "rank": 25,
+    "brand": "古茗茶饮",
+    "meiyu": 974,
+    "redu": 152,
+    "koubei": 646,
+    "category": "饮品"
+  },
+  {
+    "rank": 26,
+    "brand": "书亦烧仙草",
+    "meiyu": 954,
+    "redu": 183,
+    "koubei": 645,
+    "category": "饮品"
+  },
+  {
+    "rank": 27,
+    "brand": "遇见奶牛",
+    "meiyu": 974,
+    "redu": 151,
+    "koubei": 645,
+    "category": "饮品"
+  },
+  {
+    "rank": 28,
+    "brand": "蔡林记",
+    "meiyu": 971,
+    "redu": 154,
+    "koubei": 644,
+    "category": "小吃"
+  },
+  {
+    "rank": 29,
+    "brand": "彤德莱",
+    "meiyu": 973,
+    "redu": 151,
+    "koubei": 644,
+    "category": "火锅/串串"
+  },
+  {
+    "rank": 30,
+    "brand": "廖记棒棒鸡",
+    "meiyu": 973,
+    "redu": 151,
+    "koubei": 644,
+    "category": "小吃"
+  }
+]

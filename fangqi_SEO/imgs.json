@@ -1,0 +1,602 @@
+[
+  {
+    "company": "中国金茂",
+    "code": "AB1",
+    "big_img": "./img/seo/AB1_B.png",
+    "small_img": "./img/seo/AB1_S.png"
+  },
+  {
+    "company": "远洋集团",
+    "code": "AB2",
+    "big_img": "./img/seo/AB2_B.png",
+    "small_img": "./img/seo/AB2_S.png"
+  },
+  {
+    "company": "越秀地产",
+    "code": "AB3",
+    "big_img": "./img/seo/AB3_B.png",
+    "small_img": "./img/seo/AB3_S.png"
+  },
+  {
+    "company": "世茂集团",
+    "code": "AB4",
+    "big_img": "./img/seo/AB4_B.png",
+    "small_img": "./img/seo/AB4_S.png"
+  },
+  {
+    "company": "中国铁建",
+    "code": "AB5",
+    "big_img": "./img/seo/AB5_B.png",
+    "small_img": "./img/seo/AB5_S.png"
+  },
+  {
+    "company": "光明地产",
+    "code": "AB6",
+    "big_img": "./img/seo/AB6_B.png",
+    "small_img": "./img/seo/AB6_S.png"
+  },
+  {
+    "company": "美好置业",
+    "code": "AB7",
+    "big_img": "./img/seo/AB7_B.png",
+    "small_img": "./img/seo/AB7_S.png"
+  },
+  {
+    "company": "雅居乐集团",
+    "code": "AB8",
+    "big_img": "./img/seo/AB8_B.png",
+    "small_img": "./img/seo/AB8_S.png"
+  },
+  {
+    "company": "融创",
+    "code": "AB9",
+    "big_img": "./img/seo/AB9_B.png",
+    "small_img": "./img/seo/AB9_S.png"
+  },
+  {
+    "company": "万科",
+    "code": "AB10",
+    "big_img": "./img/seo/AB10_B.png",
+    "small_img": "./img/seo/AB10_S.png"
+  },
+  {
+    "company": "宝龙地产",
+    "code": "AB11",
+    "big_img": "./img/seo/AB11_B.png",
+    "small_img": "./img/seo/AB11_S.png"
+  },
+  {
+    "company": "敏捷集团",
+    "code": "AB12",
+    "big_img": "./img/seo/AB12_B.png",
+    "small_img": "./img/seo/AB12_S.png"
+  },
+  {
+    "company": "招商蛇口",
+    "code": "AB13",
+    "big_img": "./img/seo/AB13_B.png",
+    "small_img": "./img/seo/AB13_S.png"
+  },
+  {
+    "company": "花样年集团",
+    "code": "AB14",
+    "big_img": "./img/seo/AB14_B.png",
+    "small_img": "./img/seo/AB14_S.png"
+  },
+  {
+    "company": "华润置地",
+    "code": "AB15",
+    "big_img": "./img/seo/AB15_B.png",
+    "small_img": "./img/seo/AB15_S.png"
+  },
+  {
+    "company": "三盛集团",
+    "code": "AB16",
+    "big_img": "./img/seo/AB16_B.png",
+    "small_img": "./img/seo/AB16_S.png"
+  },
+  {
+    "company": "正黄集团",
+    "code": "AB17",
+    "big_img": "./img/seo/AB17_B.png",
+    "small_img": "./img/seo/AB17_S.png"
+  },
+  {
+    "company": "奥园集团",
+    "code": "AB18",
+    "big_img": "./img/seo/AB18_B.png",
+    "small_img": "./img/seo/AB18_S.png"
+  },
+  {
+    "company": "佳兆业集团",
+    "code": "AB19",
+    "big_img": "./img/seo/AB19_B.png",
+    "small_img": "./img/seo/AB19_S.png"
+  },
+  {
+    "company": "深业集团",
+    "code": "AB20",
+    "big_img": "./img/seo/AB20_B.png",
+    "small_img": "./img/seo/AB20_S.png"
+  },
+  {
+    "company": "龙光控股",
+    "code": "AB21",
+    "big_img": "./img/seo/AB21_B.png",
+    "small_img": "./img/seo/AB21_S.png"
+  },
+  {
+    "company": "金隅集团",
+    "code": "AB22",
+    "big_img": "./img/seo/AB22_B.png",
+    "small_img": "./img/seo/AB22_S.png"
+  },
+  {
+    "company": "绿城集团",
+    "code": "AB23",
+    "big_img": "./img/seo/AB23_B.png",
+    "small_img": "./img/seo/AB23_S.png"
+  },
+  {
+    "company": "东投地产",
+    "code": "AB24",
+    "big_img": "./img/seo/AB24_B.png",
+    "small_img": "./img/seo/AB24_S.png"
+  },
+  {
+    "company": "福星惠誉",
+    "code": "AB25",
+    "big_img": "./img/seo/AB25_B.png",
+    "small_img": "./img/seo/AB25_S.png"
+  },
+  {
+    "company": "荣安地产",
+    "code": "AB26",
+    "big_img": "./img/seo/AB26_B.png",
+    "small_img": "./img/seo/AB26_S.png"
+  },
+  {
+    "company": "中海地产",
+    "code": "AB27",
+    "big_img": "./img/seo/AB27_B.png",
+    "small_img": "./img/seo/AB27_S.png"
+  },
+  {
+    "company": "圣桦集团",
+    "code": "AB28",
+    "big_img": "./img/seo/AB28_B.png",
+    "small_img": "./img/seo/AB28_S.png"
+  },
+  {
+    "company": "恒邦双林集团",
+    "code": "AB29",
+    "big_img": "./img/seo/AB29_B.png",
+    "small_img": "./img/seo/AB29_S.png"
+  },
+  {
+    "company": "领地集团",
+    "code": "AB30",
+    "big_img": "./img/seo/AB30_B.png",
+    "small_img": "./img/seo/AB30_S.png"
+  },
+  {
+    "company": "祥生集团",
+    "code": "AB31",
+    "big_img": "./img/seo/AB31_B.png",
+    "small_img": "./img/seo/AB31_S.png"
+  },
+  {
+    "company": "龙湖地产",
+    "code": "AB32",
+    "big_img": "./img/seo/AB32_B.png",
+    "small_img": "./img/seo/AB32_S.png"
+  },
+  {
+    "company": "中骏集团",
+    "code": "AB33",
+    "big_img": "./img/seo/AB33_B.png",
+    "small_img": "./img/seo/AB33_S.png"
+  },
+  {
+    "company": "中冶置业",
+    "code": "AB34",
+    "big_img": "./img/seo/AB34_B.png",
+    "small_img": "./img/seo/AB34_S.png"
+  },
+  {
+    "company": "滨江集团",
+    "code": "AB35",
+    "big_img": "./img/seo/AB35_B.png",
+    "small_img": "./img/seo/AB35_S.png"
+  },
+  {
+    "company": "阳光城集团",
+    "code": "AB36",
+    "big_img": "./img/seo/AB36_B.png",
+    "small_img": "./img/seo/AB36_S.png"
+  },
+  {
+    "company": "金辉集团",
+    "code": "AB37",
+    "big_img": "./img/seo/AB37_B.png",
+    "small_img": "./img/seo/AB37_S.png"
+  },
+  {
+    "company": "荣盛地产",
+    "code": "AB38",
+    "big_img": "./img/seo/AB38_B.png",
+    "small_img": "./img/seo/AB38_S.png"
+  },
+  {
+    "company": "北辰实业",
+    "code": "AB39",
+    "big_img": "./img/seo/AB39_B.png",
+    "small_img": "./img/seo/AB39_S.png"
+  },
+  {
+    "company": "实地地产",
+    "code": "AB40",
+    "big_img": "./img/seo/AB40_B.png",
+    "small_img": "./img/seo/AB40_S.png"
+  },
+  {
+    "company": "恒大集团",
+    "code": "AB41",
+    "big_img": "./img/seo/AB41_B.png",
+    "small_img": "./img/seo/AB41_S.png"
+  },
+  {
+    "company": "大悦城控股",
+    "code": "AB42",
+    "big_img": "./img/seo/AB42_B.png",
+    "small_img": "./img/seo/AB42_S.png"
+  },
+  {
+    "company": "碧桂园",
+    "code": "AB43",
+    "big_img": "./img/seo/AB43_B.png",
+    "small_img": "./img/seo/AB43_S.png"
+  },
+  {
+    "company": "天山集团",
+    "code": "AB44",
+    "big_img": "./img/seo/AB44_B.png",
+    "small_img": "./img/seo/AB44_S.png"
+  },
+  {
+    "company": "众安集团",
+    "code": "AB45",
+    "big_img": "./img/seo/AB45_B.png",
+    "small_img": "./img/seo/AB45_S.png"
+  },
+  {
+    "company": "荔园集团",
+    "code": "AB46",
+    "big_img": "./img/seo/AB46_B.png",
+    "small_img": "./img/seo/AB46_S.png"
+  },
+  {
+    "company": "德信地产",
+    "code": "AB47",
+    "big_img": "./img/seo/AB47_B.png",
+    "small_img": "./img/seo/AB47_S.png"
+  },
+  {
+    "company": "财信发展",
+    "code": "AB48",
+    "big_img": "./img/seo/AB48_B.png",
+    "small_img": "./img/seo/AB48_S.png"
+  },
+  {
+    "company": "北京城建集团",
+    "code": "AB49",
+    "big_img": "./img/seo/AB49_B.png",
+    "small_img": "./img/seo/AB49_S.png"
+  },
+  {
+    "company": "永同昌集团",
+    "code": "AB50",
+    "big_img": "./img/seo/AB50_B.png",
+    "small_img": "./img/seo/AB50_S.png"
+  },
+  {
+    "company": "联发集团",
+    "code": "AB51",
+    "big_img": "./img/seo/AB51_B.png",
+    "small_img": "./img/seo/AB51_S.png"
+  },
+  {
+    "company": "上海爱家",
+    "code": "AB52",
+    "big_img": "./img/seo/AB52_B.png",
+    "small_img": "./img/seo/AB52_S.png"
+  },
+  {
+    "company": "时代大地",
+    "code": "AB53",
+    "big_img": "./img/seo/AB53_B.png",
+    "small_img": "./img/seo/AB53_S.png"
+  },
+  {
+    "company": "葛洲坝地产",
+    "code": "AB54",
+    "big_img": "./img/seo/AB54_B.png",
+    "small_img": "./img/seo/AB54_S.png"
+  },
+  {
+    "company": "中建东孚地产",
+    "code": "AB55",
+    "big_img": "./img/seo/AB55_B.png",
+    "small_img": "./img/seo/AB55_S.png"
+  },
+  {
+    "company": "宋都集团",
+    "code": "AB56",
+    "big_img": "./img/seo/AB56_B.png",
+    "small_img": "./img/seo/AB56_S.png"
+  },
+  {
+    "company": "苏宁置业",
+    "code": "AB57",
+    "big_img": "./img/seo/AB57_B.png",
+    "small_img": "./img/seo/AB57_S.png"
+  },
+  {
+    "company": "绿都地产",
+    "code": "AB58",
+    "big_img": "./img/seo/AB58_B.png",
+    "small_img": "./img/seo/AB58_S.png"
+  },
+  {
+    "company": "仁恒置地",
+    "code": "AB59",
+    "big_img": "./img/seo/AB59_B.png",
+    "small_img": "./img/seo/AB59_S.png"
+  },
+  {
+    "company": "华夏阳光",
+    "code": "AB60",
+    "big_img": "./img/seo/AB60_B.png",
+    "small_img": "./img/seo/AB60_S.png"
+  },
+  {
+    "company": "华景川集团",
+    "code": "AB61",
+    "big_img": "./img/seo/AB61_B.png",
+    "small_img": "./img/seo/AB61_S.png"
+  },
+  {
+    "company": "鸿坤伟业",
+    "code": "AB62",
+    "big_img": "./img/seo/AB62_B.png",
+    "small_img": "./img/seo/AB62_S.png"
+  },
+  {
+    "company": "金侨集团",
+    "code": "AB63",
+    "big_img": "./img/seo/AB63_B.png",
+    "small_img": "./img/seo/AB63_S.png"
+  },
+  {
+    "company": "保利地产",
+    "code": "AB64",
+    "big_img": "./img/seo/AB64_B.png",
+    "small_img": "./img/seo/AB64_S.png"
+  },
+  {
+    "company": "鲁商发展",
+    "code": "AB65",
+    "big_img": "./img/seo/AB65_B.png",
+    "small_img": "./img/seo/AB65_S.png"
+  },
+  {
+    "company": "鼎瓯集团",
+    "code": "AB66",
+    "big_img": "./img/seo/AB66_B.png",
+    "small_img": "./img/seo/AB66_S.png"
+  },
+  {
+    "company": "珠海华发",
+    "code": "AB67",
+    "big_img": "./img/seo/AB67_B.png",
+    "small_img": "./img/seo/AB67_S.png"
+  },
+  {
+    "company": "恒信集团",
+    "code": "AB68",
+    "big_img": "./img/seo/AB68_B.png",
+    "small_img": "./img/seo/AB68_S.png"
+  },
+  {
+    "company": "景瑞地产",
+    "code": "AB69",
+    "big_img": "./img/seo/AB69_B.png",
+    "small_img": "./img/seo/AB69_S.png"
+  },
+  {
+    "company": "大家房产",
+    "code": "AB70",
+    "big_img": "./img/seo/AB70_B.png",
+    "small_img": "./img/seo/AB70_S.png"
+  },
+  {
+    "company": "儒辰集团",
+    "code": "AB71",
+    "big_img": "./img/seo/AB71_B.png",
+    "small_img": "./img/seo/AB71_S.png"
+  },
+  {
+    "company": "康桥地产",
+    "code": "AB72",
+    "big_img": "./img/seo/AB72_B.png",
+    "small_img": "./img/seo/AB72_S.png"
+  },
+  {
+    "company": "星河控股",
+    "code": "AB73",
+    "big_img": "./img/seo/AB73_B.png",
+    "small_img": "./img/seo/AB73_S.png"
+  },
+  {
+    "company": "新城控股",
+    "code": "AB74",
+    "big_img": "./img/seo/AB74_B.png",
+    "small_img": "./img/seo/AB74_S.png"
+  },
+  {
+    "company": "绿地集团",
+    "code": "AB75",
+    "big_img": "./img/seo/AB75_B.png",
+    "small_img": "./img/seo/AB75_S.png"
+  },
+  {
+    "company": "红星地产",
+    "code": "AB76",
+    "big_img": "./img/seo/AB76_B.png",
+    "small_img": "./img/seo/AB76_S.png"
+  },
+  {
+    "company": "华董中国",
+    "code": "AB77",
+    "big_img": "./img/seo/AB77_B.png",
+    "small_img": "./img/seo/AB77_S.png"
+  },
+  {
+    "company": "睿古集团",
+    "code": "AB78",
+    "big_img": "./img/seo/AB78_B.png",
+    "small_img": "./img/seo/AB78_S.png"
+  },
+  {
+    "company": "佳源集团",
+    "code": "AB79",
+    "big_img": "./img/seo/AB79_B.png",
+    "small_img": "./img/seo/AB79_S.png"
+  },
+  {
+    "company": "华宇集团",
+    "code": "AB80",
+    "big_img": "./img/seo/AB80_B.png",
+    "small_img": "./img/seo/AB80_S.png"
+  },
+  {
+    "company": "新力控股",
+    "code": "AB81",
+    "big_img": "./img/seo/AB81_B.png",
+    "small_img": "./img/seo/AB81_S.png"
+  },
+  {
+    "company": "华鸿嘉信",
+    "code": "AB82",
+    "big_img": "./img/seo/AB82_B.png",
+    "small_img": "./img/seo/AB82_S.png"
+  },
+  {
+    "company": "蓝光发展",
+    "code": "AB83",
+    "big_img": "./img/seo/AB83_B.png",
+    "small_img": "./img/seo/AB83_S.png"
+  },
+  {
+    "company": "新希望地产",
+    "code": "AB84",
+    "big_img": "./img/seo/AB84_B.png",
+    "small_img": "./img/seo/AB84_S.png"
+  },
+  {
+    "company": "城建置业",
+    "code": "AB85",
+    "big_img": "./img/seo/AB85_B.png",
+    "small_img": "./img/seo/AB85_S.png"
+  },
+  {
+    "company": "合能地产",
+    "code": "AB86",
+    "big_img": "./img/seo/AB86_B.png",
+    "small_img": "./img/seo/AB86_S.png"
+  },
+  {
+    "company": "龙记泰信",
+    "code": "AB87",
+    "big_img": "./img/seo/AB87_B.png",
+    "small_img": "./img/seo/AB87_S.png"
+  },
+  {
+    "company": "正荣地产",
+    "code": "AB88",
+    "big_img": "./img/seo/AB88_B.png",
+    "small_img": "./img/seo/AB88_S.png"
+  },
+  {
+    "company": "富力集团",
+    "code": "AB89",
+    "big_img": "./img/seo/AB89_B.png",
+    "small_img": "./img/seo/AB89_S.png"
+  },
+  {
+    "company": "合景泰富",
+    "code": "AB90",
+    "big_img": "./img/seo/AB90_B.png",
+    "small_img": "./img/seo/AB90_S.png"
+  },
+  {
+    "company": "武汉城建集团",
+    "code": "AB91",
+    "big_img": "./img/seo/AB91_B.png",
+    "small_img": "./img/seo/AB91_S.png"
+  },
+  {
+    "company": "润达丰控股",
+    "code": "AB92",
+    "big_img": "./img/seo/AB92_B.png",
+    "small_img": "./img/seo/AB92_S.png"
+  },
+  {
+    "company": "俊发集团",
+    "code": "AB93",
+    "big_img": "./img/seo/AB93_B.png",
+    "small_img": "./img/seo/AB93_S.png"
+  },
+  {
+    "company": "上海建工房产",
+    "code": "AB94",
+    "big_img": "./img/seo/AB94_B.png",
+    "small_img": "./img/seo/AB94_S.png"
+  },
+  {
+    "company": "东原集团",
+    "code": "AB95",
+    "big_img": "./img/seo/AB95_B.png",
+    "small_img": "./img/seo/AB95_S.png"
+  },
+  {
+    "company": "恒泰地产",
+    "code": "AB96",
+    "big_img": "./img/seo/AB96_B.png",
+    "small_img": "./img/seo/AB96_S.png"
+  },
+  {
+    "company": "当代置业",
+    "code": "AB97",
+    "big_img": "./img/seo/AB97_B.png",
+    "small_img": "./img/seo/AB97_S.png"
+  },
+  {
+    "company": "德杰集团",
+    "code": "AB98",
+    "big_img": "./img/seo/AB98_B.png",
+    "small_img": "./img/seo/AB98_S.png"
+  },
+  {
+    "company": "金科地产",
+    "code": "AB99",
+    "big_img": "./img/seo/AB99_B.png",
+    "small_img": "./img/seo/AB99_S.png"
+  },
+  {
+    "company": "隆基泰和",
+    "code": "AB100",
+    "big_img": "./img/seo/AB100_B.png",
+    "small_img": "./img/seo/AB100_S.png"
+  }
+]

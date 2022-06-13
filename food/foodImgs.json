@@ -1,0 +1,417 @@
+{
+  "category": [
+    { "category": "火锅/串串", "icon": "huoguo" },
+    { "category": "快餐", "icon": "kuaican" },
+    { "category": "日韩料理", "icon": "rihan" },
+    { "category": "烧烤/烤鱼", "icon": "shaokao" },
+    { "category": "甜品", "icon": "tianpin" },
+    { "category": "西餐", "icon": "xican" },
+    { "category": "小吃", "icon": "xiaochi" },
+    { "category": "饮品", "icon": "yinpin" },
+    { "category": "中餐", "icon": "zhongcan" }
+  ],
+  "logos": [
+    {
+      "id": "FD1",
+      "brand": "肯德基",
+      "imgUrl": "../logos/FD1.png",
+      "category": "快餐"
+    },
+    {
+      "id": "FD2",
+      "brand": "麦当劳",
+      "imgUrl": "../logos/FD2.png",
+      "category": "快餐"
+    },
+    {
+      "id": "FD3",
+      "brand": "海底捞",
+      "imgUrl": "../logos/FD3.png",
+      "category": "火锅/串串"
+    },
+    {
+      "id": "FD4",
+      "brand": "德克士",
+      "imgUrl": "../logos/FD4.png",
+      "category": "快餐"
+    },
+    {
+      "id": "FD5",
+      "brand": "蜜雪冰城",
+      "imgUrl": "../logos/FD5.png",
+      "category": "饮品"
+    },
+    {
+      "id": "FD6",
+      "brand": "华莱士",
+      "imgUrl": "../logos/FD6.png",
+      "category": "快餐"
+    },
+    {
+      "id": "FD7",
+      "brand": "奈雪的茶",
+      "imgUrl": "../logos/FD7.png",
+      "category": "饮品"
+    },
+    {
+      "id": "FD8",
+      "brand": "遇见奶牛",
+      "imgUrl": "../logos/FD8.png",
+      "category": "饮品"
+    },
+    {
+      "id": "FD9",
+      "brand": "周黑鸭",
+      "imgUrl": "../logos/FD9.png",
+      "category": "小吃"
+    },
+    {
+      "id": "FD10",
+      "brand": "沪上阿姨",
+      "imgUrl": "../logos/FD10.png",
+      "category": "饮品"
+    },
+    {
+      "id": "FD11",
+      "brand": "茶百道",
+      "imgUrl": "../logos/FD11.png",
+      "category": "饮品"
+    },
+    {
+      "id": "FD12",
+      "brand": "益禾堂",
+      "imgUrl": "../logos/FD12.png",
+      "category": "饮品"
+    },
+    {
+      "id": "FD13",
+      "brand": "南洋大师傅",
+      "imgUrl": "../logos/FD13.png",
+      "category": "甜品"
+    },
+    {
+      "id": "FD14",
+      "brand": "喜茶",
+      "imgUrl": "../logos/FD14.png",
+      "category": "饮品"
+    },
+    {
+      "id": "FD15",
+      "brand": "小杨生煎",
+      "imgUrl": "../logos/FD15.png",
+      "category": "快餐"
+    },
+    {
+      "id": "FD16",
+      "brand": "蔡林记",
+      "imgUrl": "../logos/FD16.png",
+      "category": "小吃"
+    },
+    {
+      "id": "FD17",
+      "brand": "漫咖啡",
+      "imgUrl": "../logos/FD17.png",
+      "category": "饮品"
+    },
+    {
+      "id": "FD18",
+      "brand": "元祖",
+      "imgUrl": "../logos/FD18.png",
+      "category": "甜品"
+    },
+    {
+      "id": "FD19",
+      "brand": "永和大王",
+      "imgUrl": "../logos/FD19.png",
+      "category": "快餐"
+    },
+    {
+      "id": "FD20",
+      "brand": "N多寿司",
+      "imgUrl": "../logos/FD20.png",
+      "category": "日韩料理"
+    },
+    {
+      "id": "FD21",
+      "brand": "半糖主义",
+      "imgUrl": "../logos/FD21.png",
+      "category": "甜品"
+    },
+    {
+      "id": "FD22",
+      "brand": "知味观",
+      "imgUrl": "../logos/FD22.png",
+      "category": "中餐"
+    },
+    {
+      "id": "FD23",
+      "brand": "西树泡芙",
+      "imgUrl": "../logos/FD23.png",
+      "category": "甜品"
+    },
+    {
+      "id": "FD24",
+      "brand": "赛百味",
+      "imgUrl": "../logos/FD24.png",
+      "category": "快餐"
+    },
+    {
+      "id": "FD25",
+      "brand": "资溪面包",
+      "imgUrl": "../logos/FD25.png",
+      "category": "甜品"
+    },
+    {
+      "id": "FD26",
+      "brand": "屋头串串香",
+      "imgUrl": "../logos/FD26.png",
+      "category": "火锅/串串"
+    },
+    {
+      "id": "FD27",
+      "brand": "真功夫",
+      "imgUrl": "../logos/FD27.png",
+      "category": "快餐"
+    },
+    {
+      "id": "FD28",
+      "brand": "马路边边",
+      "imgUrl": "../logos/FD28.png",
+      "category": "火锅/串串"
+    },
+    {
+      "id": "FD29",
+      "brand": "正新鸡排",
+      "imgUrl": "../logos/FD29.png",
+      "category": "快餐"
+    },
+    {
+      "id": "FD30",
+      "brand": "巴比馒头",
+      "imgUrl": "../logos/FD30.png",
+      "category": "小吃"
+    },
+    {
+      "id": "FD31",
+      "brand": "沙县小吃",
+      "imgUrl": "../logos/FD31.png",
+      "category": "小吃"
+    },
+    {
+      "id": "FD32",
+      "brand": "瑞幸咖啡",
+      "imgUrl": "../logos/FD32.png",
+      "category": "饮品"
+    },
+    {
+      "id": "FD33",
+      "brand": "必胜客",
+      "imgUrl": "../logos/FD33.png",
+      "category": "快餐"
+    },
+    {
+      "id": "FD34",
+      "brand": "汉堡王",
+      "imgUrl": "../logos/FD34.png",
+      "category": "快餐"
+    },
+    {
+      "id": "FD35",
+      "brand": "茶颜悦色",
+      "imgUrl": "../logos/FD35.png",
+      "category": "饮品"
+    },
+    {
+      "id": "FD36",
+      "brand": "呷哺呷哺",
+      "imgUrl": "../logos/FD36.png",
+      "category": "火锅/串串"
+    },
+    {
+      "id": "FD37",
+      "brand": "好利来",
+      "imgUrl": "../logos/FD37.png",
+      "category": "甜品"
+    },
+    {
+      "id": "FD38",
+      "brand": "小龙坎",
+      "imgUrl": "../logos/FD38.png",
+      "category": "火锅/串串"
+    },
+    {
+      "id": "FD39",
+      "brand": "书亦烧仙草",
+      "imgUrl": "../logos/FD39.png",
+      "category": "饮品"
+    },
+    {
+      "id": "FD40",
+      "brand": "狗不理",
+      "imgUrl": "../logos/FD40.png",
+      "category": "小吃"
+    },
+    {
+      "id": "FD41",
+      "brand": "谭鸭血",
+      "imgUrl": "../logos/FD41.png",
+      "category": "火锅/串串"
+    },
+    {
+      "id": "FD42",
+      "brand": "杨国福麻辣烫",
+      "imgUrl": "../logos/FD42.png",
+      "category": "火锅/串串"
+    },
+    {
+      "id": "FD43",
+      "brand": "全聚德",
+      "imgUrl": "../logos/FD43.png",
+      "category": "中餐"
+    },
+    {
+      "id": "FD44",
+      "brand": "哈根达斯",
+      "imgUrl": "../logos/FD44.png",
+      "category": "甜品"
+    },
+    {
+      "id": "FD45",
+      "brand": "蜀大侠",
+      "imgUrl": "../logos/FD45.png",
+      "category": "火锅/串串"
+    },
+    {
+      "id": "FD46",
+      "brand": "老乡鸡",
+      "imgUrl": "../logos/FD46.png",
+      "category": "快餐"
+    },
+    {
+      "id": "FD47",
+      "brand": "贤合庄",
+      "imgUrl": "../logos/FD47.png",
+      "category": "火锅/串串"
+    },
+    {
+      "id": "FD48",
+      "brand": "星巴克",
+      "imgUrl": "../logos/FD48.png",
+      "category": "饮品"
+    },
+    {
+      "id": "FD49",
+      "brand": "吉野家",
+      "imgUrl": "../logos/FD49.png",
+      "category": "快餐"
+    },
+    {
+      "id": "FD50",
+      "brand": "绝味鸭脖",
+      "imgUrl": "../logos/FD50.png",
+      "category": "小吃"
+    },
+    {
+      "id": "FD51",
+      "brand": "广州酒家",
+      "imgUrl": "../logos/FD51.png",
+      "category": "中餐"
+    },
+    {
+      "id": "FD52",
+      "brand": "鲜目录寿司",
+      "imgUrl": "../logos/FD52.png",
+      "category": "日韩料理"
+    },
+    {
+      "id": "FD53",
+      "brand": "味之绝美蛙鱼头",
+      "imgUrl": "../logos/FD53.png",
+      "category": "火锅/串串"
+    },
+    {
+      "id": "FD54",
+      "brand": "泰熙家",
+      "imgUrl": "../logos/FD54.png",
+      "category": "日韩料理"
+    },
+    {
+      "id": "FD55",
+      "brand": "六婆串串香",
+      "imgUrl": "../logos/FD55.png",
+      "category": "火锅/串串"
+    },
+    {
+      "id": "FD56",
+      "brand": "双流老妈兔头",
+      "imgUrl": "../logos/FD56.png",
+      "category": "小吃"
+    },
+    {
+      "id": "FD57",
+      "brand": "眉州东坡",
+      "imgUrl": "../logos/FD57.png",
+      "category": "中餐"
+    },
+    {
+      "id": "FD58",
+      "brand": "星期天火锅",
+      "imgUrl": "../logos/FD58.png",
+      "category": "火锅/串串"
+    },
+    {
+      "id": "FD59",
+      "brand": "味多美",
+      "imgUrl": "../logos/FD59.png",
+      "category": "甜品"
+    },
+    {
+      "id": "FD60",
+      "brand": "鱼你在一起",
+      "imgUrl": "../logos/FD60.png",
+      "category": "快餐"
+    },
+    {
+      "id": "FD61",
+      "brand": "秋金小炒",
+      "imgUrl": "../logos/FD61.png",
+      "category": "中餐"
+    },
+    {
+      "id": "FD62",
+      "brand": "常青麦香园",
+      "imgUrl": "../logos/FD62.png",
+      "category": "甜品"
+    },
+    {
+      "id": "FD63",
+      "brand": "一鸣真鲜奶吧",
+      "imgUrl": "../logos/FD63.png",
+      "category": "饮品"
+    },
+    {
+      "id": "FD64",
+      "brand": "泰芒了",
+      "imgUrl": "../logos/FD64.png",
+      "category": "甜品"
+    },
+    {
+      "id": "FD65",
+      "brand": "古茗茶饮",
+      "imgUrl": "../logos/FD65.png",
+      "category": "饮品"
+    },
+    {
+      "id": "FD66",
+      "brand": "彤德莱",
+      "imgUrl": "../logos/FD66.png",
+      "category": "火锅/串串"
+    },
+    {
+      "id": "FD67",
+      "brand": "廖记棒棒鸡",
+      "imgUrl": "../logos/FD67.png",
+      "category": "小吃"
+    }
+  ]
+}

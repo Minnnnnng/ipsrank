@@ -1,0 +1,242 @@
+[
+  {
+    "rank": 1,
+    "brand": "肯德基",
+    "shengliang": 535,
+    "hudong": 829,
+    "redu": 682,
+    "category": "快餐"
+  },
+  {
+    "rank": 2,
+    "brand": "海底捞",
+    "shengliang": 392,
+    "hudong": 460,
+    "redu": 426,
+    "category": "火锅/串串"
+  },
+  {
+    "rank": 3,
+    "brand": "麦当劳",
+    "shengliang": 432,
+    "hudong": 394,
+    "redu": 413,
+    "category": "快餐"
+  },
+  {
+    "rank": 4,
+    "brand": "蜜雪冰城",
+    "shengliang": 310,
+    "hudong": 482,
+    "redu": 396,
+    "category": "饮品"
+  },
+  {
+    "rank": 5,
+    "brand": "星巴克",
+    "shengliang": 505,
+    "hudong": 231,
+    "redu": 368,
+    "category": "饮品"
+  },
+  {
+    "rank": 6,
+    "brand": "喜茶",
+    "shengliang": 291,
+    "hudong": 286,
+    "redu": 289,
+    "category": "饮品"
+  },
+  {
+    "rank": 7,
+    "brand": "华莱士",
+    "shengliang": 270,
+    "hudong": 256,
+    "redu": 263,
+    "category": "快餐"
+  },
+  {
+    "rank": 8,
+    "brand": "瑞幸咖啡",
+    "shengliang": 272,
+    "hudong": 219,
+    "redu": 246,
+    "category": "饮品"
+  },
+  {
+    "rank": 9,
+    "brand": "奈雪的茶",
+    "shengliang": 282,
+    "hudong": 195,
+    "redu": 239,
+    "category": "饮品"
+  },
+  {
+    "rank": 10,
+    "brand": "茶百道",
+    "shengliang": 188,
+    "hudong": 260,
+    "redu": 224,
+    "category": "饮品"
+  },
+  {
+    "rank": 11,
+    "brand": "沙县小吃",
+    "shengliang": 232,
+    "hudong": 181,
+    "redu": 207,
+    "category": "小吃"
+  },
+  {
+    "rank": 12,
+    "brand": "周黑鸭",
+    "shengliang": 192,
+    "hudong": 219,
+    "redu": 206,
+    "category": "小吃"
+  },
+  {
+    "rank": 13,
+    "brand": "小龙坎",
+    "shengliang": 216,
+    "hudong": 192,
+    "redu": 204,
+    "category": "火锅/串串"
+  },
+  {
+    "rank": 14,
+    "brand": "汉堡王",
+    "shengliang": 197,
+    "hudong": 187,
+    "redu": 192,
+    "category": "快餐"
+  },
+  {
+    "rank": 15,
+    "brand": "必胜客",
+    "shengliang": 215,
+    "hudong": 167,
+    "redu": 191,
+    "category": "快餐"
+  },
+  {
+    "rank": 16,
+    "brand": "茶颜悦色",
+    "shengliang": 198,
+    "hudong": 182,
+    "redu": 190,
+    "category": "饮品"
+  },
+  {
+    "rank": 17,
+    "brand": "益禾堂",
+    "shengliang": 180,
+    "hudong": 190,
+    "redu": 185,
+    "category": "饮品"
+  },
+  {
+    "rank": 18,
+    "brand": "书亦烧仙草",
+    "shengliang": 183,
+    "hudong": 183,
+    "redu": 183,
+    "category": "饮品"
+  },
+  {
+    "rank": 19,
+    "brand": "沪上阿姨",
+    "shengliang": 181,
+    "hudong": 180,
+    "redu": 181,
+    "category": "饮品"
+  },
+  {
+    "rank": 20,
+    "brand": "谭鸭血",
+    "shengliang": 186,
+    "hudong": 174,
+    "redu": 180,
+    "category": "火锅/串串"
+  },
+  {
+    "rank": 21,
+    "brand": "德克士",
+    "shengliang": 175,
+    "hudong": 183,
+    "redu": 179,
+    "category": "快餐"
+  },
+  {
+    "rank": 22,
+    "brand": "好利来",
+    "shengliang": 177,
+    "hudong": 169,
+    "redu": 173,
+    "category": "甜品"
+  },
+  {
+    "rank": 23,
+    "brand": "哈根达斯",
+    "shengliang": 180,
+    "hudong": 163,
+    "redu": 172,
+    "category": "甜品"
+  },
+  {
+    "rank": 24,
+    "brand": "吉野家",
+    "shengliang": 179,
+    "hudong": 163,
+    "redu": 171,
+    "category": "快餐"
+  },
+  {
+    "rank": 25,
+    "brand": "全聚德",
+    "shengliang": 186,
+    "hudong": 155,
+    "redu": 171,
+    "category": "中餐"
+  },
+  {
+    "rank": 26,
+    "brand": "元祖",
+    "shengliang": 177,
+    "hudong": 164,
+    "redu": 171,
+    "category": "甜品"
+  },
+  {
+    "rank": 27,
+    "brand": "狗不理",
+    "shengliang": 172,
+    "hudong": 167,
+    "redu": 169,
+    "category": "小吃"
+  },
+  {
+    "rank": 28,
+    "brand": "呷哺呷哺",
+    "shengliang": 185,
+    "hudong": 154,
+    "redu": 169,
+    "category": "火锅/串串"
+  },
+  {
+    "rank": 29,
+    "brand": "绝味鸭脖",
+    "shengliang": 179,
+    "hudong": 159,
+    "redu": 169,
+    "category": "小吃"
+  },
+  {
+    "rank": 30,
+    "brand": "广州酒家",
+    "shengliang": 182,
+    "hudong": 153,
+    "redu": 167,
+    "category": "中餐"
+  }
+]

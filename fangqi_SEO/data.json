@@ -1,0 +1,242 @@
+[
+  {
+    "rank": 1,
+    "company": "远洋集团",
+    "brand": 40.0,
+    "content": 44.54,
+    "value": 84.54,
+    "change": "-"
+  },
+  {
+    "rank": 2,
+    "company": "大悦城控股",
+    "brand": 40.0,
+    "content": 43.83,
+    "value": 83.83,
+    "change": 29.0
+  },
+  {
+    "rank": 3,
+    "company": "万科",
+    "brand": 31.33,
+    "content": 49.4,
+    "value": 80.73,
+    "change": 8.0
+  },
+  {
+    "rank": 4,
+    "company": "金地集团",
+    "brand": 32.33,
+    "content": 48.29,
+    "value": 80.62,
+    "change": "-"
+  },
+  {
+    "rank": 5,
+    "company": "越秀地产",
+    "brand": 35.67,
+    "content": 43.89,
+    "value": 79.55,
+    "change": "-2.00"
+  },
+  {
+    "rank": 6,
+    "company": "龙湖地产",
+    "brand": 33.33,
+    "content": 46.03,
+    "value": 79.36,
+    "change": "-1.00"
+  },
+  {
+    "rank": 7,
+    "company": "金隅集团",
+    "brand": 28.67,
+    "content": 50.4,
+    "value": 79.07,
+    "change": 7.0
+  },
+  {
+    "rank": 8,
+    "company": "大华集团",
+    "brand": 40.0,
+    "content": 38.06,
+    "value": 78.06,
+    "change": "-2.00"
+  },
+  {
+    "rank": 9,
+    "company": "旭辉集团",
+    "brand": 36.33,
+    "content": 41.66,
+    "value": 77.99,
+    "change": "-2.00"
+  },
+  {
+    "rank": 10,
+    "company": "中国金茂",
+    "brand": 30.67,
+    "content": 47.23,
+    "value": 77.9,
+    "change": "-8.00"
+  },
+  {
+    "rank": 11,
+    "company": "绿城集团",
+    "brand": 35.0,
+    "content": 42.71,
+    "value": 77.71,
+    "change": 2.0
+  },
+  {
+    "rank": 12,
+    "company": "保利地产",
+    "brand": 32.67,
+    "content": 42.43,
+    "value": 75.1,
+    "change": 12.0
+  },
+  {
+    "rank": 13,
+    "company": "众安集团",
+    "brand": 36.0,
+    "content": 38.54,
+    "value": 74.54,
+    "change": 21.0
+  },
+  {
+    "rank": 14,
+    "company": "中国铁建",
+    "brand": 22.0,
+    "content": 52.49,
+    "value": 74.49,
+    "change": "-5.00"
+  },
+  {
+    "rank": 15,
+    "company": "北京城建集团",
+    "brand": 32.0,
+    "content": 42.17,
+    "value": 74.17,
+    "change": 32.0
+  },
+  {
+    "rank": 16,
+    "company": "新希望地产",
+    "brand": 29.33,
+    "content": 43.63,
+    "value": 72.96,
+    "change": 6.0
+  },
+  {
+    "rank": 17,
+    "company": "金辉集团",
+    "brand": 35.0,
+    "content": 37.57,
+    "value": 72.57,
+    "change": "-9.00"
+  },
+  {
+    "rank": 18,
+    "company": "保利置业",
+    "brand": 28.67,
+    "content": 43.8,
+    "value": 72.47,
+    "change": 27.0
+  },
+  {
+    "rank": 19,
+    "company": "宝龙地产",
+    "brand": 25.0,
+    "content": 45.57,
+    "value": 70.57,
+    "change": 9.0
+  },
+  {
+    "rank": 20,
+    "company": "天地源",
+    "brand": 29.33,
+    "content": 40.8,
+    "value": 70.13,
+    "change": 24.0
+  },
+  {
+    "rank": 21,
+    "company": "圣桦集团",
+    "brand": 22.67,
+    "content": 47.37,
+    "value": 70.04,
+    "change": 6.0
+  },
+  {
+    "rank": 22,
+    "company": "中建智地",
+    "brand": 25.33,
+    "content": 44.23,
+    "value": 69.56,
+    "change": 29.0
+  },
+  {
+    "rank": 23,
+    "company": "金融街控股",
+    "brand": 34.67,
+    "content": 34.54,
+    "value": 69.21,
+    "change": "-5.00"
+  },
+  {
+    "rank": 24,
+    "company": "正黄集团",
+    "brand": 38.0,
+    "content": 31.14,
+    "value": 69.14,
+    "change": 2.0
+  },
+  {
+    "rank": 25,
+    "company": "新城控股",
+    "brand": 20.33,
+    "content": 47.6,
+    "value": 67.93,
+    "change": "-2.00"
+  },
+  {
+    "rank": 26,
+    "company": "北京建工",
+    "brand": 38.0,
+    "content": 29.91,
+    "value": 67.91,
+    "change": "-14.00"
+  },
+  {
+    "rank": 27,
+    "company": "首开集团",
+    "brand": 30.0,
+    "content": 36.86,
+    "value": 66.86,
+    "change": 33.0
+  },
+  {
+    "rank": 28,
+    "company": "世茂集团",
+    "brand": 38.0,
+    "content": 28.03,
+    "value": 66.03,
+    "change": "-3.00"
+  },
+  {
+    "rank": 29,
+    "company": "招商蛇口",
+    "brand": 16.0,
+    "content": 49.4,
+    "value": 65.4,
+    "change": 4.0
+  },
+  {
+    "rank": 30,
+    "company": "湖北联投",
+    "brand": 31.33,
+    "content": 33.77,
+    "value": 65.1,
+    "change": 23.0
+  }
+]
