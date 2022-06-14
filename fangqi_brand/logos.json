@@ -89,5 +89,12 @@
   { "fullName": "两江新区置业", "code": "AB84", "image": "../logos/AB84.png" },
   { "fullName": "中科置地", "code": "AB85", "image": "../logos/AB85.png" },
   { "fullName": "中交地产", "code": "AB86", "image": "../logos/AB86.png" },
-  { "fullName": "浙江广厦", "code": "AB87", "image": "../logos/AB87.png" }
+  { "fullName": "浙江广厦", "code": "AB87", "image": "../logos/AB87.png" },
+
+  { "fullName": "华景川", "code": "AB88", "image": "../logos/AB88.png" },
+  { "fullName": "深圳地铁", "code": "AB89", "image": "../logos/AB89.png" },
+  { "fullName": "金融街控股", "code": "AB90", "image": "../logos/AB90.png" },
+  { "fullName": "海伦堡", "code": "AB91", "image": "../logos/AB91.png" },
+  { "fullName": "银城国际", "code": "AB92", "image": "../logos/AB92.png" },
+  { "fullName": "天一仁和集团", "code": "AB93", "image": "../logos/AB93.png" }
 ]

@@ -1,212 +1,242 @@
 [
   {
-    "brand": "保利发展",
-    "redu": 504,
-    "meiyu": 931,
-    "koubei": 760,
+    "rank": 1,
+    "brand": "万达集团",
+    "redu": 671,
+    "meiyu": 928,
+    "koubei": 825,
     "change": 0
   },
   {
+    "rank": 2,
     "brand": "龙湖集团",
-    "redu": 463,
-    "meiyu": 954,
-    "koubei": 758,
-    "change": 0
+    "redu": 525,
+    "meiyu": 941,
+    "koubei": 775,
+    "change": 1
   },
   {
+    "rank": 3,
     "brand": "中海地产",
-    "redu": 480,
-    "meiyu": 937,
-    "koubei": 754,
+    "redu": 509,
+    "meiyu": 940,
+    "koubei": 768,
+    "change": "-1"
+  },
+  {
+    "rank": 4,
+    "brand": "保利地产",
+    "redu": 487,
+    "meiyu": 941,
+    "koubei": 759,
     "change": 0
   },
   {
+    "rank": 5,
+    "brand": "首创集团",
+    "redu": 422,
+    "meiyu": 967,
+    "koubei": 749,
+    "change": 0
+  },
+  {
+    "rank": 6,
     "brand": "碧桂园",
-    "redu": 451,
-    "meiyu": 942,
-    "koubei": 746,
-    "change": 0
+    "redu": 448,
+    "meiyu": 924,
+    "koubei": 734,
+    "change": 1
   },
   {
-    "brand": "万科地产",
-    "redu": 554,
-    "meiyu": 866,
-    "koubei": 741,
-    "change": 0
-  },
-  {
-    "brand": "华润置地",
-    "redu": 434,
-    "meiyu": 921,
-    "koubei": 726,
-    "change": 0
-  },
-  {
-    "brand": "融创中国",
-    "redu": 377,
-    "meiyu": 933,
-    "koubei": 711,
-    "change": 0
-  },
-  {
+    "rank": 7,
     "brand": "绿城集团",
-    "redu": 287,
-    "meiyu": 944,
+    "redu": 378,
+    "meiyu": 949,
+    "koubei": 721,
+    "change": 1
+  },
+  {
+    "rank": 8,
+    "brand": "融创中国",
+    "redu": 409,
+    "meiyu": 897,
+    "koubei": 702,
+    "change": 1
+  },
+  {
+    "rank": 9,
+    "brand": "万科地产",
+    "redu": 505,
+    "meiyu": 828,
+    "koubei": 699,
+    "change": "-3"
+  },
+  {
+    "rank": 10,
+    "brand": "领地集团",
+    "redu": 283,
+    "meiyu": 947,
+    "koubei": 682,
+    "change": 0
+  },
+  {
+    "rank": 11,
+    "brand": "首开地产",
+    "redu": 266,
+    "meiyu": 958,
     "koubei": 681,
     "change": 0
   },
   {
+    "rank": 12,
+    "brand": "华润置地",
+    "redu": 285,
+    "meiyu": 939,
+    "koubei": 677,
+    "change": 0
+  },
+  {
+    "rank": 13,
     "brand": "绿地集团",
-    "redu": 269,
-    "meiyu": 951,
-    "koubei": 678,
+    "redu": 265,
+    "meiyu": 946,
+    "koubei": 674,
     "change": 0
   },
   {
-    "brand": "中国金茂",
-    "redu": 241,
-    "meiyu": 957,
-    "koubei": 671,
+    "rank": 14,
+    "brand": "华侨城",
+    "redu": 247,
+    "meiyu": 952,
+    "koubei": 670,
+    "change": 2
+  },
+  {
+    "rank": 15,
+    "brand": "金地集团",
+    "redu": 226,
+    "meiyu": 946,
+    "koubei": 658,
     "change": 0
   },
   {
-    "brand": "中国铁建",
-    "redu": 194,
-    "meiyu": 978,
-    "koubei": 664,
-    "change": 0
+    "rank": 16,
+    "brand": "旭辉集团",
+    "redu": 226,
+    "meiyu": 946,
+    "koubei": 658,
+    "change": 1
   },
   {
-    "brand": "金隅地产集团",
-    "redu": 202,
-    "meiyu": 970,
-    "koubei": 662,
-    "change": 0
-  },
-  {
-    "brand": "金辉集团",
-    "redu": 203,
-    "meiyu": 964,
-    "koubei": 659,
-    "change": 0
-  },
-  {
-    "brand": "恒大集团",
-    "redu": 428,
-    "meiyu": 813,
-    "koubei": 659,
-    "change": 0
-  },
-  {
-    "brand": "潍坊恒信",
-    "redu": 151,
-    "meiyu": 994,
-    "koubei": 657,
-    "change": 0
-  },
-  {
-    "brand": "世茂集团",
-    "redu": 279,
-    "meiyu": 908,
-    "koubei": 657,
-    "change": 0
-  },
-  {
-    "brand": "鸿荣源",
-    "redu": 154,
-    "meiyu": 990,
+    "rank": 17,
+    "brand": "华景川",
+    "redu": 157,
+    "meiyu": 988,
     "koubei": 656,
-    "change": 0
+    "change": 13
   },
   {
-    "brand": "中骏集团",
-    "redu": 191,
-    "meiyu": 965,
+    "rank": 18,
+    "brand": "鸿荣源",
+    "redu": 165,
+    "meiyu": 982,
     "koubei": 655,
-    "change": 0
+    "change": 5
   },
   {
+    "rank": 19,
     "brand": "远洋集团",
-    "redu": 189,
-    "meiyu": 964,
-    "koubei": 654,
-    "change": 0
+    "redu": 201,
+    "meiyu": 957,
+    "koubei": 655,
+    "change": 12
   },
   {
-    "brand": "张江高科",
+    "rank": 20,
+    "brand": "深圳地铁",
+    "redu": 181,
+    "meiyu": 969,
+    "koubei": 654,
+    "change": 48
+  },
+  {
+    "rank": 21,
+    "brand": "珠海华发",
+    "redu": 155,
+    "meiyu": 986,
+    "koubei": 654,
+    "change": 23
+  },
+  {
+    "rank": 22,
+    "brand": "建发房产",
+    "redu": 199,
+    "meiyu": 957,
+    "koubei": 653,
+    "change": "-1"
+  },
+  {
+    "rank": 23,
+    "brand": "金融街控股",
     "redu": 152,
     "meiyu": 987,
     "koubei": 653,
-    "change": 0
+    "change": 143
   },
   {
-    "brand": "葛洲坝集团",
-    "redu": 158,
-    "meiyu": 979,
-    "koubei": 651,
-    "change": 0
+    "rank": 24,
+    "brand": "海伦堡",
+    "redu": 168,
+    "meiyu": 976,
+    "koubei": 653,
+    "change": 27
   },
   {
-    "brand": "众安集团",
-    "redu": 151,
-    "meiyu": 982,
-    "koubei": 650,
-    "change": 0
-  },
-  {
-    "brand": "金科股份",
-    "redu": 234,
-    "meiyu": 928,
-    "koubei": 650,
-    "change": 0
-  },
-  {
-    "brand": "福星惠誉",
+    "rank": 25,
+    "brand": "中电光谷",
     "redu": 152,
+    "meiyu": 986,
+    "koubei": 653,
+    "change": 1
+  },
+  {
+    "rank": 26,
+    "brand": "中国金茂",
+    "redu": 222,
+    "meiyu": 940,
+    "koubei": 653,
+    "change": "-7"
+  },
+  {
+    "rank": 27,
+    "brand": "武汉城建",
+    "redu": 155,
+    "meiyu": 980,
+    "koubei": 650,
+    "change": 19
+  },
+  {
+    "rank": 28,
+    "brand": "金科股份",
+    "redu": 261,
+    "meiyu": 908,
+    "koubei": 649,
+    "change": 0
+  },
+  {
+    "rank": 29,
+    "brand": "银城国际",
+    "redu": 152,
+    "meiyu": 980,
+    "koubei": 649,
+    "change": 21
+  },
+  {
+    "rank": 30,
+    "brand": "天一仁和集团",
+    "redu": 151,
     "meiyu": 981,
     "koubei": 649,
-    "change": 0
-  },
-  {
-    "brand": "雅居乐集团",
-    "redu": 208,
-    "meiyu": 943,
-    "koubei": 649,
-    "change": 0
-  },
-  {
-    "brand": "龙光集团",
-    "redu": 203,
-    "meiyu": 944,
-    "koubei": 648,
-    "change": 0
-  },
-  {
-    "brand": "象屿地产",
-    "redu": 151,
-    "meiyu": 978,
-    "koubei": 647,
-    "change": 0
-  },
-  {
-    "brand": "中冶置业",
-    "redu": 151,
-    "meiyu": 978,
-    "koubei": 647,
-    "change": 0
-  },
-  {
-    "brand": "招商蛇口",
-    "redu": 165,
-    "meiyu": 968,
-    "koubei": 647,
-    "change": 0
-  },
-  {
-    "brand": "红星地产",
-    "redu": 151,
-    "meiyu": 977,
-    "koubei": 647,
-    "change": 0
+    "change": 99
   }
 ]

@@ -1,212 +1,242 @@
 [
   {
-    "brand": "万科地产",
-    "shengliang": 835,
-    "hudong": 274,
-    "redu": 554,
+    "rank": 1,
+    "brand": "万达集团",
+    "shengliang": 906,
+    "hudong": 436,
+    "redu": 671,
     "change": 0
   },
   {
-    "brand": "保利发展",
-    "shengliang": 763,
-    "hudong": 245,
-    "redu": 504,
-    "change": 0
-  },
-  {
-    "brand": "中海地产",
-    "shengliang": 693,
-    "hudong": 267,
-    "redu": 480,
-    "change": 0
-  },
-  {
+    "rank": 2,
     "brand": "龙湖集团",
-    "shengliang": 627,
-    "hudong": 300,
-    "redu": 463,
-    "change": 0
+    "shengliang": 680,
+    "hudong": 371,
+    "redu": 525,
+    "change": 3
   },
   {
+    "rank": 3,
+    "brand": "中海地产",
+    "shengliang": 701,
+    "hudong": 317,
+    "redu": 509,
+    "change": "-1"
+  },
+  {
+    "rank": 4,
+    "brand": "万科地产",
+    "shengliang": 802,
+    "hudong": 207,
+    "redu": 505,
+    "change": "-1"
+  },
+  {
+    "rank": 5,
+    "brand": "保利发展",
+    "shengliang": 715,
+    "hudong": 259,
+    "redu": 487,
+    "change": "-1"
+  },
+  {
+    "rank": 6,
     "brand": "碧桂园",
-    "shengliang": 672,
-    "hudong": 230,
-    "redu": 451,
-    "change": 0
+    "shengliang": 666,
+    "hudong": 229,
+    "redu": 448,
+    "change": 1
   },
   {
-    "brand": "华润置地",
-    "shengliang": 657,
-    "hudong": 211,
-    "redu": 434,
-    "change": 0
+    "rank": 7,
+    "brand": "首创集团",
+    "shengliang": 641,
+    "hudong": 203,
+    "redu": 422,
+    "change": "-1"
   },
   {
-    "brand": "恒大集团",
-    "shengliang": 576,
-    "hudong": 280,
-    "redu": 428,
-    "change": 0
-  },
-  {
+    "rank": 8,
     "brand": "融创中国",
-    "shengliang": 543,
-    "hudong": 211,
-    "redu": 377,
-    "change": 0
+    "shengliang": 516,
+    "hudong": 302,
+    "redu": 409,
+    "change": 1
   },
   {
+    "rank": 9,
+    "brand": "恒大集团",
+    "shengliang": 530,
+    "hudong": 231,
+    "redu": 380,
+    "change": "-1"
+  },
+  {
+    "rank": 10,
     "brand": "绿城集团",
-    "shengliang": 395,
-    "hudong": 179,
-    "redu": 287,
+    "shengliang": 504,
+    "hudong": 253,
+    "redu": 378,
     "change": 0
   },
   {
-    "brand": "世茂集团",
-    "shengliang": 377,
-    "hudong": 182,
-    "redu": 279,
-    "change": 0
-  },
-  {
-    "brand": "绿地集团",
-    "shengliang": 365,
-    "hudong": 173,
-    "redu": 269,
-    "change": 0
-  },
-  {
-    "brand": "中国金茂",
-    "shengliang": 306,
-    "hudong": 176,
-    "redu": 241,
-    "change": 0
-  },
-  {
-    "brand": "阳光城",
-    "shengliang": 305,
-    "hudong": 166,
-    "redu": 235,
-    "change": 0
-  },
-  {
-    "brand": "正荣集团",
-    "shengliang": 302,
-    "hudong": 166,
-    "redu": 234,
-    "change": 0
-  },
-  {
-    "brand": "金科股份",
-    "shengliang": 299,
-    "hudong": 168,
-    "redu": 234,
-    "change": 0
-  },
-  {
-    "brand": "佳兆业集团控股",
-    "shengliang": 251,
-    "hudong": 168,
-    "redu": 210,
-    "change": 0
-  },
-  {
-    "brand": "雅居乐集团",
-    "shengliang": 257,
-    "hudong": 160,
-    "redu": 208,
-    "change": 0
-  },
-  {
-    "brand": "大悦城控股",
-    "shengliang": 238,
-    "hudong": 172,
-    "redu": 205,
-    "change": 0
-  },
-  {
-    "brand": "龙光集团",
-    "shengliang": 246,
-    "hudong": 160,
-    "redu": 203,
-    "change": 0
-  },
-  {
-    "brand": "金辉集团",
-    "shengliang": 222,
-    "hudong": 184,
-    "redu": 203,
-    "change": 0
-  },
-  {
-    "brand": "荣盛地产",
-    "shengliang": 244,
-    "hudong": 161,
-    "redu": 203,
-    "change": 0
-  },
-  {
-    "brand": "金隅地产集团",
-    "shengliang": 197,
-    "hudong": 206,
-    "redu": 202,
-    "change": 0
-  },
-  {
-    "brand": "奥园集团",
-    "shengliang": 241,
-    "hudong": 160,
-    "redu": 201,
-    "change": 0
-  },
-  {
-    "brand": "中国铁建",
-    "shengliang": 230,
+    "rank": 11,
+    "brand": "华润置地",
+    "shengliang": 413,
     "hudong": 157,
-    "redu": 194,
+    "redu": 285,
     "change": 0
   },
   {
-    "brand": "中骏集团",
-    "shengliang": 223,
-    "hudong": 159,
-    "redu": 191,
+    "rank": 12,
+    "brand": "领地集团",
+    "shengliang": 376,
+    "hudong": 190,
+    "redu": 283,
     "change": 0
   },
   {
-    "brand": "远洋集团",
-    "shengliang": 222,
-    "hudong": 156,
-    "redu": 189,
+    "rank": 13,
+    "brand": "首开地产",
+    "shengliang": 363,
+    "hudong": 168,
+    "redu": 266,
     "change": 0
   },
   {
-    "brand": "富力地产",
-    "shengliang": 212,
-    "hudong": 156,
-    "redu": 184,
-    "change": 0
-  },
-  {
-    "brand": "新城控股",
-    "shengliang": 213,
-    "hudong": 153,
-    "redu": 183,
-    "change": 0
-  },
-  {
-    "brand": "泰禾",
-    "shengliang": 198,
+    "rank": 14,
+    "brand": "绿地集团",
+    "shengliang": 376,
     "hudong": 155,
-    "redu": 176,
+    "redu": 265,
+    "change": 1
+  },
+  {
+    "rank": 15,
+    "brand": "金科股份",
+    "shengliang": 351,
+    "hudong": 170,
+    "redu": 261,
+    "change": 4
+  },
+  {
+    "rank": 16,
+    "brand": "华侨城",
+    "shengliang": 315,
+    "hudong": 178,
+    "redu": 247,
     "change": 0
   },
   {
-    "brand": "建业集团",
-    "shengliang": 194,
-    "hudong": 156,
-    "redu": 175,
+    "rank": 17,
+    "brand": "世茂集团",
+    "shengliang": 318,
+    "hudong": 162,
+    "redu": 240,
+    "change": 1
+  },
+  {
+    "rank": 18,
+    "brand": "中交地产",
+    "shengliang": 304,
+    "hudong": 160,
+    "redu": 232,
+    "change": "-4"
+  },
+  {
+    "rank": 19,
+    "brand": "金地集团",
+    "shengliang": 300,
+    "hudong": 152,
+    "redu": 226,
+    "change": "-2"
+  },
+  {
+    "rank": 20,
+    "brand": "旭辉集团",
+    "shengliang": 294,
+    "hudong": 158,
+    "redu": 226,
+    "change": 1
+  },
+  {
+    "rank": 21,
+    "brand": "中国金茂",
+    "shengliang": 281,
+    "hudong": 163,
+    "redu": 222,
+    "change": 3
+  },
+  {
+    "rank": 22,
+    "brand": "中铁置业",
+    "shengliang": 288,
+    "hudong": 154,
+    "redu": 221,
+    "change": "-2"
+  },
+  {
+    "rank": 23,
+    "brand": "富力地产",
+    "shengliang": 259,
+    "hudong": 166,
+    "redu": 212,
     "change": 0
+  },
+  {
+    "rank": 24,
+    "brand": "大悦城控股",
+    "shengliang": 245,
+    "hudong": 176,
+    "redu": 211,
+    "change": 1
+  },
+  {
+    "rank": 25,
+    "brand": "雅居乐集团",
+    "shengliang": 252,
+    "hudong": 155,
+    "redu": 204,
+    "change": 6
+  },
+  {
+    "rank": 26,
+    "brand": "远洋集团",
+    "shengliang": 252,
+    "hudong": 151,
+    "redu": 201,
+    "change": 7
+  },
+  {
+    "rank": 27,
+    "brand": "中国铁建",
+    "shengliang": 248,
+    "hudong": 154,
+    "redu": 201,
+    "change": 1
+  },
+  {
+    "rank": 28,
+    "brand": "泰达集团",
+    "shengliang": 245,
+    "hudong": 154,
+    "redu": 199,
+    "change": "-1"
+  },
+  {
+    "rank": 29,
+    "brand": "建发房产",
+    "shengliang": 245,
+    "hudong": 152,
+    "redu": 199,
+    "change": 1
+  },
+  {
+    "rank": 30,
+    "brand": "新城控股",
+    "shengliang": 236,
+    "hudong": 151,
+    "redu": 194,
+    "change": 5
   }
 ]
